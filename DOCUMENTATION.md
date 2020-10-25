@@ -14,7 +14,6 @@
 11. [Queues with linked list](./DS%20implementations/QUEUES/queues_linkedlist)
 12. [Stacks with linked list](./DS%20implementations/STACKS/Stack_linked_list)
 
-
 ### Important Algorithms
 
 1. [Sorting Algos](#Sorting-Algos)
