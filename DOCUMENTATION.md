@@ -16,7 +16,6 @@
 13. [Double Linked List](./DS%20implementations/Linked%20List/Double_linked_list)
 14. [Circular Linked List](./DS%20implementations/Linked%20List/circular_linked_list)
 
-
 ### Important Algorithms
 
 1. [Sorting Algos](#Sorting-Algos)
@@ -26,6 +25,7 @@
 5. [String-Matching](#String-Matching)
 6. [Tree Algorithms](#Tree-Algorithms)
 7. [Searching Algorithms](#Searching-Algorithms)
+8. [Others](#Other-Algorithms)
 
 <h2 align="center">Sorting Algos</h2>
 
@@ -94,3 +94,7 @@
 1. [Binary Search](./Algorithms/Search/binarySearch.cpp)
 2. [Linear search]( ./Algorithms/Search/LinearSearch.cpp)
 3. [Ternary Search]( ./Algorithms/Search/ternarySearch.cpp)
+
+<h2 align="center">Other Algorithms</h2>
+
+1. [Stable Matching]( ./Algorithms/Others/Stable_Matching.cpp)
